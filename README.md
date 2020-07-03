@@ -6,3 +6,7 @@ It allows for 9 Grounded Connections - the 9th can be linked to the JMBLR Module
 
 GRNDS is also a 1x8 MULT for Banana Jacks
 *** DISCONNECT FROM POWER SUPPLY IF USING AS A MULT - I AM NOT RESPONSIBLE IF YOU FRY YOUR GEAR***
+
+
+Part Information:
+Banana Jacks: CESS bn54*10
